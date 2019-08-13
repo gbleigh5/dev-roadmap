@@ -21,6 +21,7 @@ Make a pull request with the following changes: in a new bash file called `mycha
 7. Copy the remaining files into the `dist` directory then change into this directory and list the files in the dist directory.
 8. Return to the `www` directory and delete the `trash/` directory.
 9. Copy the folder `dist/` and all its content to a new folder `public_html` in the `terminal` directory.
+10. NOTE: Your pull request will be reviewed and changes may be requested. If no changes are requested, your pull request will be deleted.
 
 ## Hint
 After cloning this repository to your computer, create a duplicate folder where you will try out the commands from the terminal then copy correct commands into the `mychanges.sh` file.
