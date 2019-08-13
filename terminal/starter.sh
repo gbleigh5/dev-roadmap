@@ -1,0 +1,2 @@
+mkdir ~/terminal
+cd ~/terminal
