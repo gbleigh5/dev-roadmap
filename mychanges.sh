@@ -20,7 +20,7 @@ echo 'As soon as you are reading this, 6 files and 3 directories are being creat
 touch .hidden.env index.html services.html services.old.html about.html about.old.html robot.txt debug.log error.log
 
 mkdir assets dist trash
-ls -ln
+ls -la
 
 echo 'Three files are being created in the assets directory'
 touch assets/logo.png assets/banner.png assets/styles.css
